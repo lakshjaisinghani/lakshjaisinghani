@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hey 👋, I'm Laksh
 
-<!--
-**lakshjaisinghani/lakshjaisinghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/laksh-jaisinghani-3348b01a1/">
+  <img align="left" alt="Laksh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/mehdi.mabrouki1">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I'm **Laksh Jaisinghani**, an **Electrical and Computer systems Engineering student** 🚀 from Melbourne, currently learning my craft by helping build **Autonomous Vehicles** at Monash University.
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**My Technical Stuff:**
+- 👨🏽‍💻 I’m currently working as a Machine Learning Engineer with [Monash Connected Autonomous Vechicles](https://www.monashcav.com/).
+
+- 🤔 My interests are with Computer vision, Real-Time processing, Embedded Control, etc..
+
+- 💼 I’m pursuing a Bachelor's degree in Electrical and Computer systems Engineering.
+
+- 📫 Please email via jaisinghanilaksh@gmail.com to reach me.
+
+**Languages and Tools:**  
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Laksh's github stats](https://github-readme-stats.vercel.app/api?username=lakshjaisinghani&show_icons=true&hide_border=true)
