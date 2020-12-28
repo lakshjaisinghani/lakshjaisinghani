@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi there, I'm **Laksh Jaisinghani**, an **Electrical and Computer systems Engineering student** 🚀 from Melbourne, currently learning my craft by helping build **Autonomous Vehicles** at Monash University, Melbourne.
+Hi there, I'm **Laksh Jaisinghani**, an **Electrical and Computer systems Engineering student** 🚀 from India, currently learning my craft by helping build **Autonomous Vehicles** at Monash University, Melbourne.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
