@@ -12,7 +12,7 @@
 
 Hi there, I'm **Laksh Jaisinghani**, an **Electrical and Computer systems Engineering student** 🚀 from India, currently learning my craft by helping build **Autonomous Vehicles** at Monash University, Melbourne.
 
-  <img align="right" alt="GIF" height="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" height="390" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **My Technical Stuff:**
 - 👨🏽‍💻  I’m currently working with [Monash Connected Autonomous Vechicles](https://www.monashcav.com/).
